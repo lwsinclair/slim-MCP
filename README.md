@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/webdevtodayjason-slim-mcp-badge.png)](https://mseep.ai/app/webdevtodayjason-slim-mcp)
+
 # Slim-MCP: Claude Tools 🤖
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
